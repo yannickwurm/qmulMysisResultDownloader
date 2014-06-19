@@ -1,7 +1,7 @@
 qmulMysisResultDownloader
 =========================
 
-## WARNING _ THIS IS AN UGLY HACK! 
+### WARNING _ THIS IS AN UGLY HACK! 
 
 
 To use this: 
@@ -19,3 +19,5 @@ Current shortcomings:
  * tested only with ruby 2.1.1p76 on my mac. 
  * only tested from gmail
  
+
+ALl rights reserved -yannick wurm

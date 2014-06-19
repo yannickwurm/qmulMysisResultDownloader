@@ -1,6 +1,6 @@
 #!/usr/bin/env ruby 
 # -*- coding: utf-8 -*-
-# 2014 - yannick wurm at insalien . org
+# 2014 - yannickwurm at gmail . com - all rights reserved
 
 ##includes##
 ['pathname','fileutils', 'logger', 'capybara-webkit', 'mail', 'open-uri'].each do |lib| require lib; end
