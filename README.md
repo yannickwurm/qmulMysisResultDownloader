@@ -1,6 +1,9 @@
 qmulMysisResultDownloader
 =========================
 
+## WARNING _ THIS IS AN UGLY HACK! 
+
+
 To use this: 
 
  * create/edit config.rb as per the example
