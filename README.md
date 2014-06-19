@@ -4,6 +4,7 @@ qmulMysisResultDownloader
 To use this: 
 
  * create/edit config.rb as per the example
+ * run ```ruby getResults.rb``` 
 
 
 Current shortcomings: 
